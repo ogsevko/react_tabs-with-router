@@ -1,0 +1,2 @@
+.pages-list,.tabs-list{list-style:none;padding:0}.tabs-list{display:flex;flex-direction:row;justify-content:space-around;width:20%}.page{color:#000}.page,.tab{text-decoration:none}.tab{display:block;font-size:25px;color:navy;border-bottom:1px solid grey;border-radius:5%}.page:visited,.tab:visited{color:inherit}.selected{border:1px solid #000;color:#000;font-weight:700}
+/*# sourceMappingURL=main.d77ba01f.chunk.css.map */
